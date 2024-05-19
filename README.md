@@ -3,7 +3,7 @@
 🎓 **Undergraduate B.Tech Student at Tezpur University**  
 💻 **Full Stack Web Developer** | 🌐 **Open Source Enthusiast**
 
-![Profile Banner](github-header-image (1).png?text=Welcome+to+My+GitHub+Profile)
+![Profile Banner](github-header-image.png?text=Welcome+to+My+GitHub+Profile)
 
 ---
 
