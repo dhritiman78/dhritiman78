@@ -39,4 +39,4 @@ I'm a passionate developer currently pursuing my Bachelor of Technology at Tezpu
 
 Thank you for visiting my GitHub profile! Feel free to explore my repositories and reach out if you'd like to collaborate on any project.
 
-![Footer Banner](https://via.placeholder.com/800x200.png?text=Happy+Coding!)
+![Footer Banner](github-footer-image.png?text=Happy+Coding!)
