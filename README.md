@@ -31,7 +31,7 @@ I'm a passionate developer currently pursuing my Bachelor of Technology at Tezpu
 
 ## 📫 Connect with Me
 
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Dhritiman_Saikia-blue)](https://www.linkedin.com/in/dhritiman-saikia/)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Dhritiman_Saikia-blue)](https://www.linkedin.com/in/dhritiman-saikia-1a03112a5/)
 - [![Twitter](https://img.shields.io/badge/Twitter-@DhritimanSaikia1-1DA1F2)](https://twitter.com/DhritimanSaikia1)
 - [![Email](https://img.shields.io/badge/Email-dhritiman.saikia.11b.244@gmail.com-red)](mailto:dhritiman.saikia.11b.244@gmail.com)
 
